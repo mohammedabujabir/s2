@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Technipal\\source\\s1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Data\\Migrations\\20241212091054_Infos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ecop.DAL\\Data\\Migrations\\20241212091054_Infos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|c:\\users\\technipal\\source\\s1\\ecop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|solutionrelative:ecop.dal\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|c:\\users\\technipal\\source\\s1\\ecop.dal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|solutionrelative:ecop.dal\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|c:\\users\\technipal\\source\\s1\\ecop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|solutionrelative:ecop.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|c:\\users\\technipal\\source\\s1\\ecop.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|solutionrelative:ecop.pl\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|c:\\users\\technipal\\source\\s1\\ecop.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|solutionrelative:ecop.dal\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|c:\\users\\technipal\\source\\s1\\ecop.dal\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|solutionrelative:ecop.dal\\models\\citizen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|c:\\users\\technipal\\source\\s1\\ecop.dal\\models\\judge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|solutionrelative:ecop.dal\\models\\judge.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|c:\\users\\technipal\\source\\s1\\ecop.dal\\models\\policeman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|solutionrelative:ecop.dal\\models\\policeman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|c:\\users\\technipal\\source\\s1\\ecop.pl\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|solutionrelative:ecop.pl\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|c:\\users\\technipal\\source\\s1\\ecop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D99AAEF5-3AAF-402F-83E3-0031867092BB}|Ecop.PL\\Ecop.PL.csproj|solutionrelative:ecop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|c:\\users\\technipal\\source\\s1\\ecop.dal\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B0CED95-F7B9-4F71-9620-76C05FA44FE9}|Ecop.DAL\\Ecop.DAL.csproj|solutionrelative:ecop.dal\\models\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241212091054_Infos.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Data\\Migrations\\20241212091054_Infos.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Data\\Migrations\\20241212091054_Infos.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Data\\Migrations\\20241212091054_Infos.cs",
+              "RelativeToolTip": "Ecop.DAL\\Data\\Migrations\\20241212091054_Infos.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:10:54.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecop.PL\\appsettings.json",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\appsettings.json",
+              "RelativeToolTip": "Ecop.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T08:44:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\SeedData.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Models\\SeedData.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\SeedData.cs",
+              "RelativeToolTip": "Ecop.DAL\\Models\\SeedData.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wIUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:07:18.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Ecop.DAL\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:01:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Ecop.PL\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Ecop.PL\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T08:44:31.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Ecop.DAL\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:01:07.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Policeman.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Policeman.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Models\\Policeman.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Policeman.cs",
+              "RelativeToolTip": "Ecop.DAL\\Models\\Policeman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:04:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Citizen.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Citizen.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Models\\Citizen.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Citizen.cs",
+              "RelativeToolTip": "Ecop.DAL\\Models\\Citizen.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:01:28.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Ecop.PL\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Ecop.PL\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-12T08:43:29.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Judge.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Judge.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Models\\Judge.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Judge.cs",
+              "RelativeToolTip": "Ecop.DAL\\Models\\Judge.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:05:08.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Ecop.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.PL\\Program.cs",
+              "RelativeToolTip": "Ecop.PL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:41:42.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Car.cs",
+              "RelativeDocumentMoniker": "Ecop.DAL\\Models\\Car.cs",
+              "ToolTip": "C:\\Users\\Technipal\\source\\s1\\Ecop.DAL\\Models\\Car.cs",
+              "RelativeToolTip": "Ecop.DAL\\Models\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T08:20:20.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
